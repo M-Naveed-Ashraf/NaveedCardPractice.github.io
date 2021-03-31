@@ -12,7 +12,7 @@ body{
     background-color: white;
     height: 25rem;
     width: 20rem;
-    margin: 10% auto 0 auto;
+    margin: 8% auto 0 auto;
     
 }
 .naveed_first_div{
@@ -34,5 +34,25 @@ body{
 .naveed_third_div ul{
     list-style-type: none;
 }
-.attribution { font-size: 11px; text-align: center; }
-.attribution a { color: hsl(228, 45%, 44%); }
+.naveed_third_div li{
+    display: inline;
+    margin-left: 20px; 
+}
+
+.attribution { font-size: 1rem; text-align: center; }
+footer p{
+    margin-top: 80px;
+    color: white;
+}
+.zoom-effect-byNaveed{
+    transition: transform 0.3s;
+}
+.zoom-effect-byNaveed:hover{
+    transform: scale(1.5);
+}
+.attribution a { 
+    color: hsl(228, 67%, 18%); 
+}
+.attribution a:hover{
+    font-size: 1.2rem;
+}

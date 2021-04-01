@@ -1,11 +1,10 @@
 html{
     height: 100%;
+    
 }
 body{
     font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
-   background-image: radial-gradient(#0a5155,#12818b, #81cdd3);
-    background-repeat: no-repeat;
-    background-size:cover;
+    background-image: radial-gradient(#0a5155,#12818b, #81cdd3);
 }
 .main{
     border-radius: 20px;
@@ -33,13 +32,15 @@ body{
 }
 .naveed_third_div ul{
     list-style-type: none;
+    padding:  0;
+    display: flex;
+    flex-flow: row nowrap;
+    justify-content:space-around;
 }
-.naveed_third_div li{
-    display: inline;
-    margin-left: 20px; 
+.attribution { 
+    font-size: 1rem; 
+    text-align: center; 
 }
-
-.attribution { font-size: 1rem; text-align: center; }
 footer p{
     margin-top: 80px;
     color: white;

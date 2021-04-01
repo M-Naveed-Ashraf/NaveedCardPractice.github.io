@@ -49,7 +49,7 @@ footer {
     bottom: 0;
     width: 100%;
     display: flex;
-    flex-flow: row wrap;
+    flex-flow: row nowrap;
     justify-content: center;
 }
 .zoom-effect-byNaveed{

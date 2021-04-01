@@ -42,14 +42,15 @@ body{
 .attribution { 
     font-size: 1rem;
     color: white;
-    display: flex;
+    display: inline-block;
+    text-align: center;
 }
 footer {
     position: fixed;
     bottom: 0;
     width: 100%;
     display: flex;
-    flex-flow: row nowrap;
+    
     justify-content: center;
 }
 .zoom-effect-byNaveed{

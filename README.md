@@ -25,7 +25,7 @@ This is a solution to the [Profile card component challenge on Frontend Mentor](
 
 ### Screenshot
 
-![Screen shot of the project is available in image folder as named with ss](./images/ss.jpg)
+![Screen shot of the project is available in image folder as named with ss](images/ss.png)
  
 
 Then crop/optimize/edit your image however you like, add it to your project, and update the file path in the image above.
